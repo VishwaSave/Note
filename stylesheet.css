@@ -1,0 +1,152 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color: tomato;
+}
+
+#addTxt {
+    background-color: #fff;
+    width: 100%;
+}
+
+#addBtn{ 
+    background-color: darkblue;
+}
+
+.card {
+    width: 40%;
+    background-color: tomato;
+}
+
+.container {
+    margin-left: 11%;
+}
+
+@media(max-width:1350px) {
+    html {
+        width: 100%;
+        height: 100%;
+    }
+
+    body {
+
+        width: 100%;
+        height: 100%;
+    }
+
+    .container {
+        margin-left: 7%;
+    }
+    
+    .card {
+        width: 50%;
+    }
+}
+
+@media(max-width:980px) {
+    html {
+        width: 100%;
+        height: 100%;
+    }
+
+    body {
+
+        width: 100%;
+        height: 100%;
+    }
+
+    .container {
+        margin-left: 11%;
+    }
+    
+    .card {
+        width: 70%;
+    }
+}
+
+@media(max-width:770px) {
+    html {
+        width: 100%;
+        height: 100%;
+    }
+
+    body {
+
+        width: 100%;
+        height: 100%;
+    }
+
+    .container {
+        margin-left: 9%;
+    }
+    
+    .card {
+        width: 80%;
+    }
+}
+
+@media(max-width:630px) {
+    html {
+        width: 100%;
+        height: 100%;
+    }
+
+    body {
+
+        width: 100%;
+        height: 100%;
+    }
+
+    .container {
+        margin-left: 5%;
+    }
+    
+    .card {
+        width: 80%;
+    }
+}
+
+@media(max-width:395px) {
+    html {
+        width: 100%;
+        height: 100%;
+    }
+
+    body {
+        width: 100%;
+        height: 100%;
+    }
+
+    .container {
+        margin-left: 0%;
+    }
+
+    .card {
+        width: 95%;
+    }
+}
+
+@media(max-width:325px) {
+    html {
+        width: 100%;
+        height: 100%;
+    }
+
+    body {
+        width: 100%;
+        height: 100%;
+    }
+
+    .container {
+        margin-left: 0%;
+    }
+    
+    .card {
+        width: 100%;
+    }
+}
